@@ -31,15 +31,6 @@
     },
     {
       "id": 4,
-      "title": "Antique Watch",
-      "description": "Elegant Swiss-made gold-plated wristwatch from the 1940s. Classic style and excellent craftsmanship, still in working order.",
-      "currentBidPrice": 45000,
-      "timeLeft": "1 day 2 hours",
-      "bidsCount": 12,
-      "image": "https://i.ibb.co/jvzSXcM7/Bid4-min.png"
-    },
-    {
-      "id": 5,
       "title": "Vintage Wooden Chair",
       "description": "Handcrafted wooden chair with classic design. Great for both indoor and garden use.",
       "currentBidPrice": 1500,
@@ -48,13 +39,22 @@
       "image": "https://i.ibb.co/cckhR7xx/Bid5-min.png"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Poetry Book - Milk and Honey",
       "description": "Bestselling poetry collection by Rupi Kaur, exploring love, heartbreak, and healing.",
       "currentBidPrice": 1200,
       "timeLeft": "6 days",
       "bidsCount": 6,
       "image": "https://i.ibb.co/hRfyVKGc/Bid6-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Antique Watch",
+      "description": "Elegant Swiss-made gold-plated wristwatch from the 1940s. Classic style and excellent craftsmanship, still in working order.",
+      "currentBidPrice": 45000,
+      "timeLeft": "1 day 2 hours",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co/jvzSXcM7/Bid4-min.png"
     }
   ]
 }
