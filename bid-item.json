@@ -1,0 +1,60 @@
+{
+  "status": true,
+  "message": "Successfully fetched all the bid items",
+  "data": [
+    {
+      "id": 1,
+      "title": "Vintage Camera",
+      "description": "Rare 1960s vintage film camera in perfect working condition. Ideal for photography enthusiasts and collectors.",
+      "currentBidPrice": 7500,
+      "timeLeft": "2 days 4 hours",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/4nYnp1x2/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "Gaming Laptop",
+      "description": "Powerful gaming laptop featuring Intel i7 processor, RTX 4060 GPU, 16GB RAM, and 1TB SSD. Ready for high-end gaming and editing.",
+      "currentBidPrice": 135000,
+      "timeLeft": "5 hours 30 minutes",
+      "bidsCount": 15,
+      "image": "https://i.ibb.co.com/F4TqGYtQ/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Antique Watch",
+      "description": "Elegant Swiss-made gold-plated wristwatch from the 1940s. Classic style and excellent craftsmanship, still in working order.",
+      "currentBidPrice": 45000,
+      "timeLeft": "1 day 2 hours",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/20R30Twf/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Smartphone Bundle",
+      "description": "Brand new flagship smartphone with wireless earbuds, protective case, and fast charger included.",
+      "currentBidPrice": 110000,
+      "timeLeft": "3 days 6 hours",
+      "bidsCount": 20,
+      "image": "https://i.ibb.co.com/hRfyVKGc/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "Mountain Bike",
+      "description": "Premium 21-speed mountain bike with lightweight aluminum frame, hydraulic disc brakes, and shock absorbers.",
+      "currentBidPrice": 45000,
+      "timeLeft": "8 hours 15 minutes",
+      "bidsCount": 7,
+      "image": "https://i.ibb.co.com/jvzSXcM7/Bid5-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Leather Sofa",
+      "description": "Luxurious brown leather 3-seater sofa with minimal wear and tear. Adds a touch of elegance to any living room.",
+      "currentBidPrice": 85000,
+      "timeLeft": "4 days",
+      "bidsCount": 10,
+      "image": "https://i.ibb.co.com/cckhR7xx/Bid6-min.png"
+    }
+  ]
+}
